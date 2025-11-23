@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hey there! 👋😁
 
-<!--
-**seabasr99/seabasr99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Sebastian**, an **Industrial Engineer** who landed in **Backend Development**! ⚙️➡️💻
 
-Here are some ideas to get you started:
+I design solutions that use the cloud in an efficient and cost-effective way. Whenever an idea pops into my head, I try to implement it! 🚀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Tech Stack Highlights
+
+* **Languages:** Java, Python and SQL
+* **Frameworks:** Spring Boot, FastAPI
+* **Cloud:** AWS, Azure
+
+## ⚽ Quick Facts
+
+* I started in Computer Science (CS) then moved to Industrial Engineering (IE).
+* I love soccer
+* **Hobbies:** Gym, tennis, and building backend apps.
